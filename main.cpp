@@ -33,7 +33,7 @@ int main()
 		read_c >> tempINT2;
 		read_c >> tempINT3;
 		cus[i].set_appointment(tempINT2, tempINT3);
-		cus[i].print();
+		//cus[i].print();
 	}
 	read_c.close();
 
